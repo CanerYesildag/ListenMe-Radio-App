@@ -9,7 +9,7 @@ We will take advantage of Android Studio while developing our application.
 
 Group Members:
 
-Caner YEÞÝLDAÐ (150116842)
-Muhuttin KAYA (150116835)
-Barýþ AVÝNCAN (150116834)
+Caner YEÅžÄ°LDAÄž (150116842)
+Muhittin KAYA (150116835)
+BarÄ±ÅŸ AVÄ°NCAN (150116834)
 
