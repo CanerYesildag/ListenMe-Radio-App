@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListenMe</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="loading">LOADING</string>
+    <string name="recordOn">RECORD ON</string>
+    <string name="recordOff">RECORD OFF</string>
+    <string name="urlBox">Enter URL</string>
+    <string name="ok">OK</string>
+    <string name="playRecord">Play Record</string>
+    <string name="pauseRecord">Pause Record</string>
+    <string name="addFavs">ADDED TO FAVS</string>
+    <string name="popFavs">REMOVED FROM FAVS</string>
+    <string name="tap_on_mic">Tap on mic to FM</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="action_settings">valuee</string>
+    <string name="favorites">FAVORITES</string>
+    
+</resources>
